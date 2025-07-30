@@ -5,13 +5,13 @@ import { getAuth } from "firebase/auth"; // <--- Add this import for authenticat
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA84ebjlxbPggtaoz8VucXZW-dp--iTm28",
-  authDomain: "escuela-proyecto-unah.firebaseapp.com",
-  projectId: "escuela-proyecto-unah",
-  storageBucket: "escuela-proyecto-unah.firebasestorage.app",
-  messagingSenderId: "399761542806",
-  appId: "1:399761542806:web:4c94d8a1adbb9646f7bcb7",
-  measurementId: "G-XTB7GE7L41"
+  apiKey: "AIzaSyAmaoO6kmB8KkBqusYPN1tckCioX7B_8WA",
+  authDomain: "siam-7cf7a.firebaseapp.com",
+  projectId: "siam-7cf7a",
+  storageBucket: "siam-7cf7a.firebasestorage.app",
+  messagingSenderId: "655897812565",
+  appId: "1:655897812565:web:7fda36bc0cc8a71b3cbedc",
+  measurementId: "G-F62BQ2Q5HL"
 };
 
 // Initialize Firebase
