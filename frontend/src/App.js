@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
-import { auth } from './firebaseConfig'; // Importa el objeto 'auth' de tu configuración de Firebase
+import { auth } from '../firebaseConfig'; // Importa el objeto 'auth' de tu configuración de Firebase
 import { onAuthStateChanged } from 'firebase/auth';
 
 // Importa tus componentes de página
